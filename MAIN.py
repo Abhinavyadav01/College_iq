@@ -5,7 +5,7 @@ import datetime
 import matplotlib.pyplot as plt
 
 
-st.set_page_config(page_title="Cutoff Lens", layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="CollegeIQ", layout="wide", initial_sidebar_state="collapsed")
 
 
 st.markdown("""
@@ -36,10 +36,10 @@ st.markdown("""
     }
     </style>
 """,unsafe_allow_html=True)
-st.markdown('<div class="title">CUTOFF LENS</div>',unsafe_allow_html=True)
+st.markdown('<div class="title">COLLEGE IQ</div>',unsafe_allow_html=True)
 st.markdown('<div class="head">Explore. Compare. Decide. Your Gateway to Selecting the Best NITs and IITs Visually</div>',unsafe_allow_html=True)
 
-st.markdown("""<div style='margin-top: 65px;'> <span style='font-size: 18px; font-weight: 600;'>The CUTOFF LENS is an intuitive, visually-driven, and highly interactive web platform built to empower users in making informed decisions about India’s premier engineering institutions
+st.markdown("""<div style='margin-top: 65px;'> <span style='font-size: 18px; font-weight: 600;'>The COLLEGE IQ is an intuitive, visually-driven, and highly interactive web platform built to empower users in making informed decisions about India’s premier engineering institutions
               — the Indian Institutes of Technology (IITs) and National Institutes of Technology (NITs). In a country where engineering aspirants often rely on scattered information, word of mouth, or incomplete rankings,
               this platform serves as a centralized hub for exploring, analyzing, and comparing critical data points that actually matter when selecting a college. From NIRF rankings and geographical locations to connectivity
               via railways and airports, users can now make choices with clarity, context, and confidence. Whether you're a student preparing for JEE, a parent researching the best-fit college for your child, or an education
