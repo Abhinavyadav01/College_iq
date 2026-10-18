@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 from streamlit import session_state
 
 st.set_page_config(
-    page_title = "My Project",
+    page_title = "IIT Dashboard",
     layout = "wide"
 )
 
@@ -116,7 +116,7 @@ map = px.scatter_mapbox(df,
                         lon="Longitude",
                         hover_name="Institute",
                         hover_data={"City":True ,"State/UT":True},
-                        zoom=3.5,
+                        zoom=3,
                         height=1000,
                         mapbox_style="open-street-map",
                         title="📍 IITs Across India")
