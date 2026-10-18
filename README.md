@@ -1,4 +1,4 @@
-# CUTOFF LENS 🎓📊
+# COLLEGE IQ 🎓📊
 
 A web-based dashboard that helps JEE aspirants compare IITs and NITs using parameters like campus area, location, seat matrix, and NIRF rankings.
 
